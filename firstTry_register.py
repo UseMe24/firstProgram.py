@@ -27,4 +27,3 @@ print(f"\nHello Mr.{names}. This is Your PassID:({idPass.upper()}) ... DON'T FOR
 #2nd time
 
 #Using Termux
-
