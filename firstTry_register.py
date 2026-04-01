@@ -26,3 +26,5 @@ print(f"\nHello Mr.{names}. This is Your PassID:({idPass.upper()}) ... DON'T FOR
 #editedFile
 #2nd time
 
+#Using Termux
+
